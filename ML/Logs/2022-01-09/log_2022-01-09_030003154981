@@ -1,0 +1,11 @@
+Inizio processo di analisi: 2022-01-09 03:00:03.154981
+Parametri del processo:
+	last_checkpoints:AttrDict({'errori': 93980, 'captazioni': 7182337})
+	upper_limit:0.375
+Inizio ottenimento e preparazione dei dati...
+Righe lette da captazioni: 299956
+Righe lette da errori: 9283
+Righe rimosse da errori per codice errore non considerato: 942
+Righe lette da errori e non in comune con captazioni: 5157
+Non ci sono nuove captazioni da analizzare. Programma interrotto
+Analisi completata con orario: 2022-01-09 03:00:38.504062

@@ -1,0 +1,27 @@
+Inizio processo di analisi: 2022-02-19 12:00:02.924669
+Parametri del processo:
+	last_checkpoints:AttrDict({'errori': 96903, 'captazioni': 7305885})
+	upper_limit:0.375
+Inizio ottenimento e preparazione dei dati...
+Righe lette da captazioni: 811338
+Righe lette da errori: 29973
+Righe rimosse da errori per codice errore non considerato: 2987
+Righe lette da errori e non in comune con captazioni: 17681
+Righe rimosse da captazioni con codice errore 59 per analisi treno: 0
+Righe rimosse da captazioni con codice errore 59 per analisi treno: 0
+Numero di ID_RUN con problema sulle date: 0
+Righe rimosse da captazioni per ID_RUN con problema date: 0
+Righe rimosse da errori per ID_RUN con problema date: 0
+Righe con errori 51 che seguono un 58 rimosse: 0
+Righe rimosse con meno di 3 letture per analisi treno: 12285
+Numero di linee con NID_PI pari a 0 rimosse: 1043
+Treni analizzati durante questa sessione:
+SB0011
+Punti informativi analizzati durante questa sessione:
+1_3_759, 1_3_760, 1_3_761, 1_3_762, 1_3_763, 1_3_764, 1_3_765, 1_3_766, 1_3_769, 1_3_770, 1_3_771, 1_3_772, 1_3_774, 1_3_775, 1_3_781, 1_3_783, 1_3_784, 1_3_785, 1_3_786, 1_3_787, 1_3_792, 2_3_760, 2_3_762, 2_3_771, 2_3_772, 2_3_773, 2_3_774, 2_3_775, 2_3_776, 2_3_786, 2_5_681, 3_1_1, 3_1_10, 3_1_102, 3_1_103, 3_1_104, 3_1_105, 3_1_106, 3_1_11, 3_1_110, 3_1_111, 3_1_112, 3_1_113, 3_1_114, 3_1_115, 3_1_116, 3_1_117, 3_1_12, 3_1_121, 3_1_122, 3_1_123, 3_1_124, 3_1_128, 3_1_129, 3_1_13, 3_1_130, 3_1_131, 3_1_132, 3_1_133, 3_1_137, 3_1_138, 3_1_139, 3_1_14, 3_1_140, 3_1_141, 3_1_142, 3_1_143, 3_1_144, 3_1_145, 3_1_146, 3_1_147, 3_1_148, 3_1_149, 3_1_15, 3_1_150, 3_1_151, 3_1_152, 3_1_157, 3_1_158, 3_1_159, 3_1_163, 3_1_164, 3_1_165, 3_1_166, 3_1_167, 3_1_168, 3_1_169, 3_1_173, 3_1_174, 3_1_175, 3_1_176, 3_1_178, 3_1_179, 3_1_180, 3_1_181, 3_1_182, 3_1_183, 3_1_186, 3_1_187, 3_1_188, 3_1_189, 3_1_193, 3_1_194, 3_1_2, 3_1_20, 3_1_200, 3_1_201, 3_1_202, 3_1_203, 3_1_207, 3_1_208, 3_1_209, 3_1_21, 3_1_210, 3_1_211, 3_1_215, 3_1_216, 3_1_217, 3_1_218, 3_1_219, 3_1_22, 3_1_223, 3_1_224, 3_1_225, 3_1_226, 3_1_227, 3_1_228, 3_1_23, 3_1_232, 3_1_233, 3_1_24, 3_1_25, 3_1_27, 3_1_28, 3_1_29, 3_1_3, 3_1_30, 3_1_301, 3_1_302, 3_1_303, 3_1_309, 3_1_310, 3_1_311, 3_1_312, 3_1_313, 3_1_314, 3_1_315, 3_1_32, 3_1_320, 3_1_321, 3_1_322, 3_1_323, 3_1_324, 3_1_325, 3_1_326, 3_1_327, 3_1_334, 3_1_335, 3_1_36, 3_1_37, 3_1_38, 3_1_39, 3_1_4, 3_1_44, 3_1_46, 3_1_47, 3_1_48, 3_1_51, 3_1_52, 3_1_53, 3_1_55, 3_1_56, 3_1_57, 3_1_58, 3_1_59, 3_1_63, 3_1_64, 3_1_65, 3_1_66, 3_1_67, 3_1_68, 3_1_69, 3_1_70, 3_1_74, 3_1_75, 3_1_76, 3_1_77, 3_1_78, 3_1_79, 3_1_8, 3_1_83, 3_1_84, 3_1_85, 3_1_86, 3_1_87, 3_1_88, 3_1_89, 3_1_9, 3_1_90, 3_1_94, 3_1_95, 3_1_96, 3_1_97, 3_1_98
+Inizio analisi sui treni: 2022-02-19 12:02:24.389074
+Fine analisi sui treni: 2022-02-19 12:03:19.960569
+Inizio analisi sui punti informativi: 2022-02-19 12:03:19.961489
+Fine analisi sui punti informativi: 2022-02-19 12:03:55.270978
+L'analisi non ha prodotto alcun allarme da aggiungere.
+Analisi completata con orario: 2022-02-19 12:03:55.371570

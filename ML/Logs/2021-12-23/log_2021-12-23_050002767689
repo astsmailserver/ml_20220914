@@ -1,0 +1,17 @@
+Inizio processo di analisi: 2021-12-23 05:00:02.767689
+Parametri del processo:
+	last_checkpoints:AttrDict({'errori': 93055, 'captazioni': 7138279})
+	upper_limit:0.375
+Inizio ottenimento e preparazione dei dati...
+Righe lette da captazioni: 274922
+Righe lette da errori: 8381
+Righe rimosse da errori per codice errore non considerato: 852
+Righe lette da errori e non in comune con captazioni: 4706
+Righe rimosse da captazioni con codice errore 59 per analisi treno: 0
+Righe rimosse da captazioni con codice errore 59 per analisi treno: 0
+Numero di ID_RUN con problema sulle date: 0
+Righe rimosse da captazioni per ID_RUN con problema date: 0
+Righe rimosse da errori per ID_RUN con problema date: 0
+Righe con errori 51 che seguono un 58 rimosse: -1
+Righe rimosse con meno di 3 letture per analisi treno: 1
+Numero di linee con NID_PI pari a 0 rimosse: 278
