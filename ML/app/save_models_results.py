@@ -50,3 +50,17 @@ def insert_results(results_alarms, results_details, results_linking_runs, run_id
         results_linking_runs.to_sql(env.db.tabella_issues_linking_runs_summary, dbConnection, if_exists='append', index=False)
         results_details.to_csv(f'./{env.path.details_directory}{run_id}.csv', index=False)
     return "done"
+
+def truncate_tables_fix():
+    with engine.connect() as dbConnection:
+        try:
+            #dbConnection.execute(env.db.tabella_issues.delete())
+            #dbConnection.execute(env.db.tabella_issues_linking_runs_summary.delete())
+            dbConnection.execute(text("TRUNCATE TABLE " + env.db.tabella_issues))
+            dbConnection.execute(text("TRUNCATE TABLE " + env.db.tabella_issues_linking_runs_summary))
+            dbConnection.commit()
+            dbConnection.close()
+        except:
+            #dbConnection.rollback()
+            return "error"
+    return "done"
