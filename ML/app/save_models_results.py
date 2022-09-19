@@ -1,6 +1,7 @@
 import pandas as pd
 from attrdict import AttrDict
 from sqlalchemy import create_engine
+from sqlalchemy import text
 import json
 from ftplib import FTP
 from pathlib import Path
