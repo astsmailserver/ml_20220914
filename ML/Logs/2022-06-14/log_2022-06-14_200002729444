@@ -1,6 +1,0 @@
-Inizio processo di analisi: 2022-06-14 20:00:02.729444
-Parametri del processo:
-	last_checkpoints:AttrDict({'errori': 107190, 'captazioni': 7659834})
-	upper_limit:0.375
-Inizio ottenimento e preparazione dei dati...
-Righe lette da captazioni: 1051062
